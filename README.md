@@ -17,12 +17,13 @@
   - As a user, I want to click on a "Transaction" link in the info window and be navigated to a separate page (Details.js) displaying more detailed information about the selected marker.
   - As a user, I want a navigation bar displayed at the top of the page with the title "Singapore Property Transaction Record" and a "Back To Home" link.
 
-## Possible future enhancements
- - Set color scheme for the map icon based on the transaction volumne.
- - Real-time fetch of the data.
- - Add section to compare the transaction between different projects.
 
 ## Challenge
  - Configure Google Map API
  - Call the data
  - SVY coordinator convertion
+
+## Possible future enhancements
+ - Set color scheme for the map icon based on the transaction volumne.
+ - Real-time fetch of the data.
+ - Add section to compare the transaction between different projects.
