@@ -19,6 +19,6 @@
 
 ## Possible future enhancements
  - Set color scheme for the map icon based on the transaction volumne.
- - Real-Time update of the data fetched.
+ - Real-time fetch of the data.
  - Add section to compare the transaction between different projects.
 
