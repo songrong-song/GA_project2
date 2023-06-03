@@ -22,3 +22,7 @@
  - Real-time fetch of the data.
  - Add section to compare the transaction between different projects.
 
+## Challenge
+ - Configure Google Map API
+ - Call the data
+ - SVY coordinator convertion
