@@ -18,7 +18,7 @@
   - As a user, I want a navigation bar displayed at the top of the page with the title "Singapore Property Transaction Record" and a "Back To Home" link.
 
 Possible future enhancements
- - Set color scheme for the map icon based on the transaction volumne
- - Real-Time update of the data fetched
- - Add section to compare the transaction between different projects
+ - Set color scheme for the map icon based on the transaction volumne.
+ - Real-Time update of the data fetched.
+ - Add section to compare the transaction between different projects.
 
