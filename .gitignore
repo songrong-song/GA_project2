@@ -4,3 +4,4 @@ node_modules/.cache/*
 node_modules/.cache/default-development/3.pack
 node_modules/.cache/default-development/25.pack
 node_modules/.cache/default-development/18.pack
+.vercel
