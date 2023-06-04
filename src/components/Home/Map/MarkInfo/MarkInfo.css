@@ -1,0 +1,29 @@
+.marker-info {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+  }
+  
+  .marker-info h2 {
+    margin-top: 0;
+  }
+  
+  .marker-info table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .marker-info td {
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .marker-info td:first-child {
+    font-weight: bold;
+    width: 150px;
+  }
+  
+  .marker-info td:last-child {
+    text-align: right;
+  }
+  

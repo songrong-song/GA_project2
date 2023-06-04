@@ -1,0 +1,50 @@
+.gm-style .gm-style-iw-d::-webkit-scrollbar-track,
+.gm-style .gm-style-iw-d::-webkit-scrollbar-track-piece,
+.gm-style .gm-style-iw-c,
+.gm-style .gm-style-iw-t::after {
+  background: rgb(6, 88, 29);
+}
+
+/* background: rgba(233, 223, 223, 0.5); */
+
+.gm-style .gm-style-iw-tc::after {
+  background-color: red;
+  /* background: rgba(233, 223, 223, 0.5); */
+}
+
+.gm-style .gm-style-iw-c {
+  border: 1px solid black !important;
+  color: white;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.25);
+}
+
+/* .gm-style .gm-style-iw-t::after {
+  box-shadow: none;
+  border-left: 1px solid black !important;
+  border-bottom: 1px solid black !important;
+} */
+button.gm-ui-hover-effect > span {
+  background-color: #fff;
+}
+
+
+.MapSection {
+  display: flex;
+  direction: column;
+  width: auto;
+
+}
+
+.MarkInfo {
+  display: flex;
+  flex: 1;
+  width: 100%
+}
+
+.GoogleMap {
+  display: flex;
+  size: 50;
+  flex: 2;
+  margin: 0 auto; /* Center the container horizontally */
+  overflow: hidden;
+}
