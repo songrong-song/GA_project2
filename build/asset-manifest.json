@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.11063e77.css",
+    "main.js": "/static/js/main.ab712423.js",
+    "static/media/Mask Group.png": "/static/media/Mask Group.b9a40f74e7777b4f343b.png",
+    "index.html": "/index.html",
+    "main.11063e77.css.map": "/static/css/main.11063e77.css.map",
+    "main.ab712423.js.map": "/static/js/main.ab712423.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11063e77.css",
+    "static/js/main.ab712423.js"
+  ]
+}

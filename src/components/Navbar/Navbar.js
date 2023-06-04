@@ -1,6 +1,5 @@
 import React from 'react';
 import { AppBar, Toolbar, Typography, Button } from '@mui/material';
-import { Box } from '@material-ui/core';
 import { Link } from 'react-router-dom';
 
 const Navbar = () => {

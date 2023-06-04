@@ -1,4 +1,5 @@
 *.env
+node_modules
 node_modules/.cache
 node_modules/.cache/*
 node_modules/.cache/default-development/3.pack
